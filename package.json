@@ -1,0 +1,15 @@
+{
+  "name": "demo-horizonta-cards",
+  "author": "Alisson Nunes <alynva@gmail.com>",
+  "license": "ISC",
+  "version": "0.1.0",
+  "browserslist": [
+    "defaults"
+  ],
+  "scripts": {
+    "serve": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
