@@ -8,7 +8,7 @@ document.querySelectorAll('.horizontal-media-scroller')
 
 // register service worker
 if ('serviceWorker' in navigator) {
-	navigator.serviceWorker.register('/service-worker.js')
+	navigator.serviceWorker.register('service-worker.js')
 		.then(function (reg) {
 
 			if(reg.installing) {
